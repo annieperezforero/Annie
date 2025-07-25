@@ -1,0 +1,46 @@
+mindmap
+  root((Fármacos y Ergoespirometría))
+    <br/>
+    <b>1. ⬇️ Cronotrópicos Negativos</b>
+      <br/>
+      <b>1.1 Betabloqueantes</b>
+        Ej: Metoprolol, Carvedilol
+        <b>Impacto Clave:</b>
+          Invalida FCmáx por edad
+          ⬇️ FC Basal y Pico
+          ⬇️ VO₂max (5-15%)
+          ⬆️ Pulso de O₂ (artificial)
+      <b>1.2 Calcioantagonistas (No-DHP)</b>
+        Ej: Verapamilo, Diltiazem
+        <b>Impacto Clave:</b>
+          Similar a Betabloqueantes
+          Menos potente
+          ⬇️ FC Basal y Pico
+      <b>1.3 Inhibidores del Canal Iƒ</b>
+        Ej: Ivabradina
+        <b>Impacto Clave:</b>
+          Cronotrópico negativo PURO
+          No afecta contractilidad
+          ⬇️ FC Basal y Pico
+    <br/>
+    <b>2. ⬆️ Cronotrópicos Positivos</b>
+      <br/>
+      <b>2.1 Simpaticomiméticos (β2-Agonistas)</b>
+        Ej: Salbutamol, Formoterol
+        <b>Impacto Clave:</b>
+          ⬆️ FC Basal y Submáxima
+          Puede subestimar VO₂max real
+    <br/>
+    <b>3. 🔄 Efectos Variables / Complejos</b>
+      <br/>
+      <b>3.1 Antiarrítmicos</b>
+        <b>Amiodarona</b>
+          Efecto similar a Betabloqueantes
+          ⬇️ FC
+        <b>Digoxina</b>
+          ⬇️ FC en reposo (tono vagal)
+          Efecto se atenúa en ejercicio
+      <b>3.2 Otros</b>
+        <b>Antidepresivos (Tricíclicos, ISRS/IRSN)</b>
+          Potencial ⬆️ FC
+          Respuesta variable
